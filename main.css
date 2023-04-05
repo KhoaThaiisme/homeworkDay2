@@ -48,8 +48,12 @@ button {
 }
 
 .cont {
-    background-color: rgb(242, 190, 59);
+    background: linear-gradient(#ffe6b5, #f0c14b);
     border: solid 1px;
+}
+
+.cont:hover {
+    background: linear-gradient(#ffe6b5, #ebaf18);
 }
 
 .create {
